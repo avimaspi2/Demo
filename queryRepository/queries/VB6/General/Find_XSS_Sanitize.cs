@@ -1,0 +1,1 @@
+result = Find_XSS_Replace() +  Find_Encode() + Find_Integers();

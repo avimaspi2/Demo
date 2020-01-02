@@ -1,0 +1,1 @@
+result = Common_Low_Visibility.Overly_Permissive_Cross_Origin_Resource_Sharing_Policy();

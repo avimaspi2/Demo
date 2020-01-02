@@ -1,0 +1,1 @@
+cxLog.WriteDebugMessage("Find_Anonymous_Classes");

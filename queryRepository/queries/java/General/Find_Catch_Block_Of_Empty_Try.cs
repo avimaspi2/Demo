@@ -1,0 +1,1 @@
+result = base.Find_Catch_Block_Of_Empty_Try();

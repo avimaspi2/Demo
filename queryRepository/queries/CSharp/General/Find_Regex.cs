@@ -1,0 +1,1 @@
+result = All.FindByShortName("Regex", true) + All.FindByType("Regex", true);

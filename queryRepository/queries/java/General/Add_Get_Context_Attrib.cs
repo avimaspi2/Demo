@@ -1,0 +1,1 @@
+result = Add_Get_Attrib_Gen(Get_Context_Attribute(), Set_Context_Attribute());

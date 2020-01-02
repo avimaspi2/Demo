@@ -1,0 +1,1 @@
+cxLog.WriteDebugMessage("Common - FindRead");

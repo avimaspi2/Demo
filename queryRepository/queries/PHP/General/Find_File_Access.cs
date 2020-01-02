@@ -1,0 +1,1 @@
+result = Find_File_Read() + Find_File_Write();

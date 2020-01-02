@@ -1,0 +1,1 @@
+result = Find_Read() + Find_Write();

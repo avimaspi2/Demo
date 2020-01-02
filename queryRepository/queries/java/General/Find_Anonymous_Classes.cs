@@ -1,0 +1,1 @@
+result = Find_Class_Decl().FindByShortName("anonymous_class_*");

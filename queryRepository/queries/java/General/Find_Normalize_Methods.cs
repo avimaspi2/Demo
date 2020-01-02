@@ -1,0 +1,1 @@
+result = Find_Methods().FindByShortName("normalize");

@@ -1,0 +1,1 @@
+result = Hapi_Find_Reply_Interface().FindByType(typeof(MethodInvokeExpr));

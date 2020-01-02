@@ -1,0 +1,36 @@
+//Classes implementing List interface
+ string[] collections = new string[]{
+	"Seq", 
+	"LinearSeq", 
+	"MutableList", 
+	"LinkedList", 
+	"DoubleLinkedList",
+	"ArrayStack",
+	"Stack", 
+	"SynchronizedStack", 
+	"Buffer", 
+	"ListBuffer",
+	"SynchronizedBuffer",
+	"ObservableBuffer",
+	"IndexedSeq",
+	"ArraySeq",
+	"StringBuilder",
+	"ArrayBuffer",	
+	"List",
+	"Stream",
+	"Queue",
+	"IndexedSeq",
+	"Vector",
+	"NumericRange",
+	"Array",
+	"Range",	
+	"AbstractList",
+	"AbstractSequentialList",
+	"ArrayList",
+	"AttributeList",
+	"CopyOnWriteArrayList",
+	"RoleList",
+	"RoleUnresolvedList"
+	}; 
+
+result = All.FindByTypes(collections) + All.FindByType(typeof (RankSpecifier));

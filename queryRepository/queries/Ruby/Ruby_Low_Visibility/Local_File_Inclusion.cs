@@ -1,0 +1,1 @@
+result = All.FindByType(typeof(Import)).FindByRegex(@"(params|cookies)\[");

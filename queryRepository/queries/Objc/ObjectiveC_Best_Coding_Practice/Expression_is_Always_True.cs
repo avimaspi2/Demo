@@ -1,0 +1,1 @@
+result = Find_True_Condition();

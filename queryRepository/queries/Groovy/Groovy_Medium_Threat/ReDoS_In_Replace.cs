@@ -1,0 +1,1 @@
+result = Find_ReDoS(Find_Evil_Strings_For_Replace(), Find_Replace_Regex(), false);

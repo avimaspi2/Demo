@@ -1,0 +1,1 @@
+result = All.GetByAncs(Find_Dead_Code());

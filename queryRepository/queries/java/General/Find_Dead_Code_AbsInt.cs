@@ -1,0 +1,1 @@
+result = base.Find_Dead_Code_AbsInt();

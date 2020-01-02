@@ -1,0 +1,1 @@
+result = Common_High_Risk.Deserialization_of_Untrusted_Data();

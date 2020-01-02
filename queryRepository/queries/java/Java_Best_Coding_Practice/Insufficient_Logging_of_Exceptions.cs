@@ -1,0 +1,1 @@
+result = Common_Best_Coding_Practice.Insufficient_Logging_of_Exceptions();

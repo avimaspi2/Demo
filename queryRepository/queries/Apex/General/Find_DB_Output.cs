@@ -1,0 +1,1 @@
+result = Find_DB_Active() + Find_DB_Inactive();

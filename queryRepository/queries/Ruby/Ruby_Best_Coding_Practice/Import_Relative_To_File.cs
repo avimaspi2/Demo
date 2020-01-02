@@ -1,0 +1,9 @@
+//////////////////////////////////////////////////////////////////////////
+//
+// Find cases where a require command uses path relative to __FILE__
+//
+//////////////////////////////////////////////////////////////////////////
+
+string pattern = @"\b(require|require_relative|load)\b[^\n\r]*__FILE__";
+
+result = All.FindByRegex(pattern, CxList.CxRegexOptions.SearchInComments);

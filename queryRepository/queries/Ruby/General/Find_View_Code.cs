@@ -1,0 +1,1 @@
+result = All.FindByFileName("*.rhtml") + All.FindByFileName("*.erb");

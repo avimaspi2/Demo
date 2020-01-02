@@ -1,0 +1,1 @@
+result = All.FindByCustomAttribute("with sharing").GetAncOfType(typeof(ClassDecl));

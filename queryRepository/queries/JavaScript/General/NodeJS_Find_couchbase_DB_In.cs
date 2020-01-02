@@ -1,0 +1,2 @@
+CxList db = NodeJS_Find_couchbase_DB();
+result = db.FindByShortNames(new List<string> {"getName", "enableN1ql",  "getMulti", "remove", "manager","enableN1ql", "insert", "upsert","replace", "append", "prepend", "remove", "get" , "getReplica", "getAndTouch" ,"getAndLock", "getFromReplica", "touch", "counter", "unlock", "_search", "query", "lookupIn", "retrieveIn", "mutateIn", "setTranscoder"});

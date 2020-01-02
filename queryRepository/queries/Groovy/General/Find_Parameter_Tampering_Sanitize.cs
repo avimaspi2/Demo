@@ -1,0 +1,1 @@
+result = All.FindByMemberAccess("AccessReferenceMap.getDirectReference");

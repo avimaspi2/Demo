@@ -1,0 +1,1 @@
+result = Find_Methods().FindByShortName("*preg*", false) + Find_Methods().FindByShortName("*regex*");

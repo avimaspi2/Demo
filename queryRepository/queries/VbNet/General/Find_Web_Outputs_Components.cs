@@ -1,0 +1,72 @@
+// Auto Genereted
+
+// Telerik.Windows.Controls
+result = All.FindByMemberAccess("ExtendedTextBox.Text", false);
+result.Add(All.FindByMemberAccess("RadMaskedTextBox.Value", false));
+result.Add(All.FindByMemberAccess("WatermarkedTextBox.Text", false));
+result.Add(All.FindByMemberAccess("DistinctValuesList.SelectedItem", false));
+result.Add(All.FindByMemberAccess("DistinctValuesList.SelectedValue", false));
+result.Add(All.FindByMemberAccess("RadTreeViewItem.Header", false));
+result.Add(All.FindByMemberAccess("Cells.Content", false));
+result.Add(All.FindByMemberAccess("GridViewCell.Value", false));
+result.Add(All.FindByMemberAccess("GridViewCell.Content", false));
+result.Add(All.FindByMemberAccess("GridViewCell.GetValue", false)); 
+result.Add(All.FindByMemberAccess("GridViewCell.SetValue", false));
+result.Add(All.FindByMemberAccess("GridViewCellBase.GetValue", false)); 
+result.Add(All.FindByMemberAccess("GridViewCellBase.SetValue", false));
+result.Add(All.FindByMemberAccess("GridViewHeaderCell.GetValue", false)); 
+result.Add(All.FindByMemberAccess("GridViewHeaderCell.SetValue", false));
+// ComponentArt
+result.Add(All.FindByMemberAccess("MaskedInput.Text", false)); 
+result.Add(All.FindByMemberAccess("NumberInput.Value", false));  // numbers only
+result.Add(All.FindByMemberAccess("GridCell.Text", false));
+result.Add(All.FindByMemberAccess("GridCell.Value", false));
+result.Add(All.FindByMemberAccess("TreeViewNode.Text", false));
+result.Add(All.FindByMemberAccess("TreeViewNode.Value", false));
+result.Add(All.FindByMemberAccess("TreeViewNode.Header", false)); 
+result.Add(All.FindByMemberAccess("Calendar.formatDate", false));  // Date only
+result.Add(All.FindByMemberAccess("Editor.ContentText", false)); 
+result.Add(All.FindByMemberAccess("Editor.ContentHTML", false));
+result.Add(All.FindByMemberAccess("DataGridCell.Text", false));
+result.Add(All.FindByMemberAccess("DataGridCell.Value", false));
+result.Add(All.FindByMemberAccess("DataGridColumn.ColumnName", false));
+result.Add(All.FindByMemberAccess("DataGridGroup.Value", false));
+result.Add(All.FindByMemberAccess("DataGridGroup.ValueText", false));
+result.Add(All.FindByMemberAccess("UploadItem.FileName", false));
+result.Add(All.FindByMemberAccess("MenuItem.Text", false));
+result.Add(All.FindByMemberAccess("SitemapTableCell.Text", false));
+result.Add(All.FindByMemberAccess("SitemapNode.Text", false));
+result.Add(All.FindByMemberAccess("SitemapNode.Value", false));
+// Infragistics
+result.Add(All.FindByMemberAccess("GroupByAreaFieldListBox.SelectedItem", false));
+result.Add(All.FindByMemberAccess("GroupByAreaFieldListBox.SelectedValue", false));
+result.Add(All.FindByMemberAccess("CellValuePresenter.Text", false));
+result.Add(All.FindByMemberAccess("Cell.Value", false));
+result.Add(All.FindByMemberAccess("Cell.ConvertedValue", false));
+result.Add(All.FindByMemberAccess("CellAutomationPeer.Value", false));
+result.Add(All.FindByMemberAccess("IGControlBase.SetValue", false)); 
+result.Add(All.FindByMemberAccess("IGControlBase.GetValue", false));
+// FarPoint
+result.Add(All.FindByMemberAccess("Cells.Text", false));
+result.Add(All.FindByMemberAccess("Cells.Value", false));
+result.Add(All.FindByMemberAccess("Cell.Text", false));
+result.Add(All.FindByMemberAccess("FpBoolean.CheckState", false));  // Boolean
+result.Add(All.FindByMemberAccess("FpCalendar.CurrentDate", false));
+result.Add(All.FindByMemberAccess("FpCanvas.Text", false));
+result.Add(All.FindByMemberAccess("FpClock.CurrentTime", false));
+result.Add(All.FindByMemberAccess("FpCurrency.Text", false));
+result.Add(All.FindByMemberAccess("FpCurrency.Value", false));
+result.Add(All.FindByMemberAccess("FpDateTime.Text", false));
+result.Add(All.FindByMemberAccess("FpDateTime.Value", false));
+result.Add(All.FindByMemberAccess("FpDouble.Text", false));
+result.Add(All.FindByMemberAccess("FpDouble.Value", false)); 
+result.Add(All.FindByMemberAccess("FpInteger.Text", false));
+result.Add(All.FindByMemberAccess("FpInteger.Value", false));
+result.Add(All.FindByMemberAccess("FpMask.Text", false));
+result.Add(All.FindByMemberAccess("FpMask.Value", false));
+result.Add(All.FindByMemberAccess("FpPercent.Text", false));
+result.Add(All.FindByMemberAccess("FpPercent.Value", false));
+result.Add(All.FindByMemberAccess("FpSuperEdit.Text", false));
+result.Add(All.FindByMemberAccess("FpSuperEdit.Value", false));
+result.Add(All.FindByMemberAccess("FpText.Text", false));
+result.Add(All.FindByMemberAccess("FpText.Value", false));

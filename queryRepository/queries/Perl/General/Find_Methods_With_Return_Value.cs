@@ -1,0 +1,44 @@
+CxList methods = Find_Methods() + All.FindByType(typeof(MemberAccess));
+
+result = 
+	methods.FindByShortName("begin_work") +
+	methods.FindByShortName("bunzip2") +
+	methods.FindByShortName("close") +
+	methods.FindByShortName("commit") +
+	methods.FindByShortName("connect") +
+	methods.FindByShortName("connect_cached") +
+	methods.FindByShortName("cwd") +
+	methods.FindByShortName("deflate") +
+	methods.FindByShortName("delete") +
+	methods.FindByShortName("dircopy") +
+	methods.FindByShortName("dirmove") +
+	methods.FindByShortName("disconnect") +
+	methods.FindByShortName("do") +
+	methods.FindByShortName("eval") +
+	methods.FindByShortName("execute") +
+	methods.FindByShortName("execute_array") +
+	methods.FindByShortName("extract") +
+	methods.FindByShortName("fcopy") +
+	methods.FindByShortName("fetch") +
+	methods.FindByShortName("fmove") +
+	methods.FindByShortName("func") +
+	methods.FindByShortName("gunzip") +
+	methods.FindByShortName("gzip") +
+	methods.FindByShortName("init_db") +
+	methods.FindByShortName("login") +
+	methods.FindByShortName("mkdir") +
+	methods.FindByShortName("open") +
+	methods.FindByShortName("parse_dsn") +
+	methods.FindByShortName("pathempty") +
+	methods.FindByShortName("pathmk") +
+	methods.FindByShortName("pathrm") +
+	methods.FindByShortName("prepare") +
+	methods.FindByShortName("put") +
+	methods.FindByShortName("rcopy") +
+	methods.FindByShortName("require") +
+	methods.FindByShortName("rmdir") +
+	methods.FindByShortName("rmove") +
+	methods.FindByShortName("rollback") +
+	methods.FindByShortName("save") +
+	methods.FindByShortName("send") +
+	methods.FindByShortName("shift");

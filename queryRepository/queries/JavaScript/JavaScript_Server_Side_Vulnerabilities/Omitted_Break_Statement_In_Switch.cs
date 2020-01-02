@@ -1,0 +1,1 @@
+result = Common_Best_Coding_Practice.Omitted_Break_Statement_In_Switch();

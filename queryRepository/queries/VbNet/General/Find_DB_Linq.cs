@@ -1,0 +1,1 @@
+result = Find_DB_Linq_In() + Find_DB_Linq_Out();

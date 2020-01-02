@@ -1,0 +1,1 @@
+//This query is deprecated. Please consider Type_Conversion_Error query instead.

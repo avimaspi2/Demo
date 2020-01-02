@@ -1,0 +1,1 @@
+result = Find_ReDoS(Find_Inputs(), false);

@@ -1,0 +1,1 @@
+result = All.GetParameters(Find_Replace_Regex(), 0);
