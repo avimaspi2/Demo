@@ -1,1 +1,0 @@
-// This query has been deprecated.

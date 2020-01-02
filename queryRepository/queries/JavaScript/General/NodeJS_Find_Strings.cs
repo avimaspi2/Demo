@@ -1,1 +1,0 @@
-result = Find_String_Literal();

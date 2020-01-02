@@ -1,1 +1,0 @@
-result = All.FindByMemberAccess("DBMS_UTILITY.EXEC_DDL_STATEMENT",false);

@@ -1,1 +1,0 @@
-/* This query was removed since Apex is not vulnerable to HTTP Splitting */

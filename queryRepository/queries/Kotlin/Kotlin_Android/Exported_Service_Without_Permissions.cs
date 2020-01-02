@@ -1,1 +1,0 @@
-result = Common_Android.Exported_Service_Without_Permissions();

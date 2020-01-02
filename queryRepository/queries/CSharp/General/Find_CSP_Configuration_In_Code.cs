@@ -1,1 +1,0 @@
-result = base.Find_CSP_Configuration_In_Code();

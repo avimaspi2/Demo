@@ -1,1 +1,0 @@
-cxLog.WriteDebugMessage("Common - Find_Log_Outputs");

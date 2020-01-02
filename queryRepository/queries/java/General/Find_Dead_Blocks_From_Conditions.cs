@@ -1,1 +1,0 @@
-result = base.Find_Dead_Blocks_From_Conditions();

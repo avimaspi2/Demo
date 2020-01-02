@@ -1,1 +1,0 @@
-result = Find_Methods().FindByShortName("derive_key").GetAssignee(Find_Unknown_References());

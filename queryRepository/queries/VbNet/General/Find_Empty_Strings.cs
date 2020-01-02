@@ -1,1 +1,0 @@
-result = Find_Strings().FindByName("");

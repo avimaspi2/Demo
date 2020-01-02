@@ -1,1 +1,0 @@
-result = All.InheritsFrom(@"batchable");// +All.InheritsFrom(@"schedulable");

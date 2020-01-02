@@ -1,1 +1,0 @@
-cxLog.WriteDebugMessage("Common - Get_HSTS_Headers_Language_Specific");

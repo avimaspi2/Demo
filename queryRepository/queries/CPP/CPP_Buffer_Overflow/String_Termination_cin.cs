@@ -1,1 +1,0 @@
-//This query is deprecated. Please refer to Improper_Null_Termination instead.

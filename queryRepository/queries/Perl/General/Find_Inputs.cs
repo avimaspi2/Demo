@@ -1,1 +1,0 @@
-result = Find_Interactive_Inputs() + Find_Read() + Find_DB_Out() + Find_Console_Inputs();

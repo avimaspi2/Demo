@@ -1,1 +1,0 @@
-result = Get_All_Global_Variables();

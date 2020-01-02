@@ -1,1 +1,0 @@
-result = Find_All_Passwords().FindByTypes(new String[] {"String", "System.String"});

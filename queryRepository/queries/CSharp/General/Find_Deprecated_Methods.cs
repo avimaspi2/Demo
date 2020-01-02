@@ -1,1 +1,0 @@
-result.Add(Find_Deprecated_Sanitizers());

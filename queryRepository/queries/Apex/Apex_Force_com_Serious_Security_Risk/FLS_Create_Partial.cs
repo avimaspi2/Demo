@@ -1,1 +1,0 @@
-result = FLS_Create(0);

@@ -1,1 +1,0 @@
-result = Common_Android.Insecure_Android_SDK_Version();

@@ -1,1 +1,0 @@
-result = base.Find_True_Abstract_Value();

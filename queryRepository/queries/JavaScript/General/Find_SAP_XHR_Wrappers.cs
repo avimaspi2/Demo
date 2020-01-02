@@ -1,1 +1,0 @@
-result = Find_SAP_Library().GetMembersOfTarget().FindByShortNames(new List<string> {"sjax", "syncGet", "syncGetJSON", "syncPost", "syncGetText"});

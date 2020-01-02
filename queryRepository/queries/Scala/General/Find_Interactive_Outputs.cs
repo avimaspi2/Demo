@@ -1,1 +1,0 @@
-result = Find_Console_Outputs() + Find_Web_Outputs();

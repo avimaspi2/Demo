@@ -1,1 +1,0 @@
-result = All.FindByAssignmentSide(CxList.AssignmentSide.Left);

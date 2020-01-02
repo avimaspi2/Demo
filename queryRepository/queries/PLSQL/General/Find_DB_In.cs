@@ -1,1 +1,0 @@
-result = Find_Implicit_Cursor_Params() + Find_Dynamic_DB_In();

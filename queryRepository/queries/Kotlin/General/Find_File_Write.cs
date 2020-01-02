@@ -1,1 +1,0 @@
-result = All.FindByMemberAccess("File.writeText");

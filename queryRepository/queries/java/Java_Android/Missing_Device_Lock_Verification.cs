@@ -1,1 +1,0 @@
-result = Common_Low_Visibility.Missing_Device_Lock_Verification();

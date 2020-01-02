@@ -1,1 +1,0 @@
-// deprecated. Merged into Format_String_Attack query [Medium Threat]

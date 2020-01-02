@@ -1,1 +1,0 @@
-result = base.Find_Replace_Regex_In_First_Param();

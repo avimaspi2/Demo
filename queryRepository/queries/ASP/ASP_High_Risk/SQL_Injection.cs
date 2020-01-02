@@ -1,1 +1,0 @@
-result = Common_High_Risk.SQL_Injection();

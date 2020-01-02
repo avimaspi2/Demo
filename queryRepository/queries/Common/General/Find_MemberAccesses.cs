@@ -1,1 +1,0 @@
-result = All.FindByType(typeof(MemberAccess));

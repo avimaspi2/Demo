@@ -1,1 +1,0 @@
-result = base.Find_Evil_Strings();

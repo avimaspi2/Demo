@@ -1,1 +1,0 @@
-result = Find_Relative_Path_Traversal(Find_Interactive_Inputs());

@@ -1,1 +1,0 @@
-result = Common_Medium_Threat.Missing_HSTS_Header();

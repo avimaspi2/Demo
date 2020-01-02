@@ -1,1 +1,0 @@
-result = Find_Methods().FindByName("*error_log*", false);

@@ -1,1 +1,0 @@
-result = All.FindByFileName("*Controller.js");

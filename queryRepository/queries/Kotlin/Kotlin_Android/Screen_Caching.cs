@@ -1,1 +1,0 @@
-result = Common_Android.Screen_Caching();

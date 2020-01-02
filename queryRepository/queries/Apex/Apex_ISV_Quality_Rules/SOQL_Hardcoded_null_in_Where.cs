@@ -1,1 +1,0 @@
-result = Extract_From_SOQL("where", "= null", "null");

@@ -1,1 +1,0 @@
-result = Find_Plain_Interactive_Inputs();

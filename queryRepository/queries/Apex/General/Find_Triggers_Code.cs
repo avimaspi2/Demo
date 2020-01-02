@@ -1,1 +1,0 @@
-result = All.GetByAncs(Find_Triggers());

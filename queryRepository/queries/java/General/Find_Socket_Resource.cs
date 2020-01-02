@@ -1,1 +1,0 @@
-result = Find_Object_Create().FindByShortName("ServerSocket");

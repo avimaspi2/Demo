@@ -1,1 +1,0 @@
-result = All.FindByFiles(React_Find_ComponentCreationMethods());

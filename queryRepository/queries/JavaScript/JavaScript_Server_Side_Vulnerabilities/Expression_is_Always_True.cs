@@ -1,1 +1,0 @@
-result = NodeJS_Find_True_Condition();

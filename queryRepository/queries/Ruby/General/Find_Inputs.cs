@@ -1,1 +1,0 @@
-result = Find_Interactive_Inputs() + Find_Read();

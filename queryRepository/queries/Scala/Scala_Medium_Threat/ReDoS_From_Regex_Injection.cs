@@ -1,1 +1,0 @@
-result = Find_ReDoS(Find_Inputs(), Find_Regex_Injection_Sink(), false);

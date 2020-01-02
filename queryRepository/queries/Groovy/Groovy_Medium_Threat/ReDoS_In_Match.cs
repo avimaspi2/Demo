@@ -1,1 +1,0 @@
-result = Find_ReDoS(Find_Evil_Strings() + Find_Inputs(), Find_Match(), false);

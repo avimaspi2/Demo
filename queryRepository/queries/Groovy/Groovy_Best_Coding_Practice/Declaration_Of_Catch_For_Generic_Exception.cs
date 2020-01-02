@@ -1,1 +1,0 @@
-result = Common_Best_Coding_Practice.Declaration_Of_Catch_For_Generic_Exception(new List<string> {"Exception", "Throwable"});

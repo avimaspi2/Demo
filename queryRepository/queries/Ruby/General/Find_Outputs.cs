@@ -1,1 +1,0 @@
-result = Find_Interactive_Outputs() + Find_Write() + Find_Console_Outputs();

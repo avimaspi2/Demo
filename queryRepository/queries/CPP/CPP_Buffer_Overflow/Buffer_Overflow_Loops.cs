@@ -1,1 +1,0 @@
-//This query is deprecated. Please consider Buffer_Improper_Index_Access query instead.

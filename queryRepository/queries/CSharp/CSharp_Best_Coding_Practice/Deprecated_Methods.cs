@@ -1,1 +1,0 @@
-result = Find_Deprecated_Methods();
